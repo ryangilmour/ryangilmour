@@ -3,8 +3,7 @@
 I'm Ryan. I build tools in Python to simulate energy systems. I then use these tools to design low-carbon smart local energy systems. 
 
 #### Work 🛠️ 
--  📈 Simulations Lead at [ZUoS Ltd.](https://www.zuos.co.uk/)
--  🔌 Electrical Engineer at [Scene Connect Ltd.](https://scene.community/)
+-  📈 Solutions Specialist at [Opus One Solutions from GE Digital](https://www.opusonesolutions.com/)
 -  💼 Find out more on my [LinkedIn](https://www.linkedin.com/in/ryan-gilmour/)...
 
 
